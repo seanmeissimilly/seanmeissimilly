@@ -14,9 +14,9 @@ I am a Computer Engineer who graduated from the Technological University of Hava
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=seanmeissimilly&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=seanmeissimilly&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=seanmeissimilly&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=seanmeissimilly&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=seanmeissimilly&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
 
